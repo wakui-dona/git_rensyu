@@ -1,0 +1,2 @@
+wakui_no_git rensyu
+add commit push
